@@ -1,0 +1,6 @@
+{
+  "name": "ÉirePocket",
+  "description": "An elegant, interactive pocket companion for Ireland. Discover Irish phrases (Focal an Lae), learn local slang, play Irish trivia, and get humorous local weather updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
